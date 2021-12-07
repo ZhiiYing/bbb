@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>頁首 on Learn Javascript</title>
+    <link>https://airbone4.github.io/class_web/</link>
+    <description>Recent content in 頁首 on Learn Javascript</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language><atom:link href="https://airbone4.github.io/class_web/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>123</title>
+      <link>https://airbone4.github.io/class_web/js/x1.html</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://airbone4.github.io/class_web/js/x1.html</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>my first javascript</title>
+      <link>https://airbone4.github.io/class_web/js/firstjs.html</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://airbone4.github.io/class_web/js/firstjs.html</guid>
+      <description>let x=3let y=3console.log(x)document.write(x)</description>
+    </item>
+    
+    <item>
+      <title>模板</title>
+      <link>https://airbone4.github.io/class_web/js/%E6%A8%A1%E6%9D%BF.html</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://airbone4.github.io/class_web/js/%E6%A8%A1%E6%9D%BF.html</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
